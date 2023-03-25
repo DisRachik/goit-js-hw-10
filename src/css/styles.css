@@ -18,3 +18,16 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+img {
+  display: inline-block;
+  box-shadow: 3px 3px 20px #c8c4c3;
+}
+span {
+  margin-left: 5px;
+}
